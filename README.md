@@ -6,7 +6,7 @@
 
 ## hello! 👋 🤠
 
-My name is **matheus renan**. I'm a 21yo student who enjoys programming, mostly in C.
+My name is **matheus renan**. I'm a 21yo student from Brazil who enjoys programming, mostly in C.
 
 - 🎓 Electronics Technician (Instituto Federal Sul-riograndense - IFSul)
   
