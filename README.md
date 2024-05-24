@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/mthsrnn/mthsrnn/main/banner.png"/>
+<img align="center" src="https://raw.githubusercontent.com/mthsrnn/mthsrnn/main/header.png"/>
 
 [<img src="https://img.shields.io/badge/-mthsrnn-1C1B19?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/mthsrnn/)
 [<img src="https://img.shields.io/badge/-mthsrnn-1C1B19?style=for-the-badge&logo=instagram">](https://www.instagram.com/mthsrnn/)
