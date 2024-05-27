@@ -18,7 +18,7 @@ My name is **matheus renan**. I'm a 21yo student from Brazil who enjoys programm
 
 ---
 
-### Software I use:
+### Stuff I like:
 ![Git](https://img.shields.io/badge/-Git-1C1B19?style=for-the-badge&logo=git)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-1C1B19?style=for-the-badge&logo=neovim)&nbsp;
 ![Void Linux](https://img.shields.io/badge/-Void%20Linux-1C1B19?style=for-the-badge&logo=voidlinux)&nbsp;
@@ -27,12 +27,8 @@ My name is **matheus renan**. I'm a 21yo student from Brazil who enjoys programm
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-1C1B19?style=for-the-badge&logo=excalidraw)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-1C1B19?style=for-the-badge&logo=figma)&nbsp;
 ![GIMP](https://img.shields.io/badge/-GIMP-1C1B19?style=for-the-badge&logo=gimp)&nbsp;
-
-### Familiar with:
 ![C](https://img.shields.io/badge/-C-1C1B19?style=for-the-badge&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1C1B19?style=for-the-badge&logo=python)&nbsp;
-
-### Learning:
 ![C++](https://img.shields.io/badge/-C++-1C1B19?style=for-the-badge&logo=cplusplus)&nbsp;
 ![Zig](https://img.shields.io/badge/-Zig-1C1B19?style=for-the-badge&logo=Zig)&nbsp;
 ![Go](https://img.shields.io/badge/-Golang-1C1B19?style=for-the-badge&logo=go)&nbsp;
