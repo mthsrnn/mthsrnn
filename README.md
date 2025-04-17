@@ -6,14 +6,12 @@
 
 ## hello! 👋 🤠
 
-My name is **matheus renan**. I'm a 21yo student from Brazil who enjoys programming, mostly in C.
+My name is **matheus renan**. I'm a 22yo student from Brazil who enjoys programming, mostly in C.
 
 - 🎓 Electronics Technician (Instituto Federal Sul-riograndense - IFSul)
   
 - 📚 Computer Science (ongoing) (Universidade Federal de Pelotas - UFPel)
-  
-- 👨‍🔬 Undergraduate researcher
-  
+    
 - 🏫 Tutorial Ed. Program scholarship holder
 
 ---
