@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/mthsrnn/mthsrnn/main/name.png"/>
 
 [<img src="https://img.shields.io/badge/-mthsrnn-100F0F?style=for-the-badge&logo=instagram">](https://www.instagram.com/mthsrnn/)
-[<img src="https://img.shields.io/badge/-Mail-#100F0F?style=for-the-badge&logo=gmail">](mailto:mrffreitas@inf.ufpel.edu.br)
+[<img src="https://img.shields.io/badge/-Mail-100F0F?style=for-the-badge&logo=gmail">](mailto:mrffreitas@inf.ufpel.edu.br)
 
 ## hello
 
