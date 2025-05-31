@@ -5,7 +5,7 @@
 
 ## hello
 
-I'm **matheus renan**, a 22 years old CS student from Brazil. Below are some technologies I know and like.
+I'm **matheus renan**, a 23 years old CS student from Brazil. Below are some technologies I know and like.
 
 ---
 
