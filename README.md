@@ -1,13 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/mthsrnn/mthsrnn/main/name.png"/>
-
-[<img src="https://img.shields.io/badge/-mthsrnn-100F0F?style=for-the-badge&logo=instagram">](https://www.instagram.com/mthsrnn/)
-[<img src="https://img.shields.io/badge/-Mail-100F0F?style=for-the-badge&logo=gmail">](mailto:mrffreitas@inf.ufpel.edu.br)
-
 ## hello
 
-I'm **matheus renan**, a 23 years old CS student from Brazil. Below are some technologies I know and like.
-
----
+(**matheus renan**, 23) is a computer science undergrad student from Federal Univesity of Pelotas.
 
 ![Git](https://img.shields.io/badge/-Git-100F0F?style=for-the-badge&logo=git)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-100F0F?style=for-the-badge&logo=neovim)&nbsp;
@@ -22,4 +15,7 @@ I'm **matheus renan**, a 23 years old CS student from Brazil. Below are some tec
 ![Go](https://img.shields.io/badge/-Golang-100F0F?style=for-the-badge&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-100F0F?style=for-the-badge&logo=openjdk)&nbsp;
 
+## where to find
 
+[<img src="https://img.shields.io/badge/-mthsrnn-100F0F?style=for-the-badge&logo=instagram">](https://www.instagram.com/mthsrnn/)
+[<img src="https://img.shields.io/badge/-Mail-100F0F?style=for-the-badge&logo=gmail">](mailto:mrffreitas@inf.ufpel.edu.br)
